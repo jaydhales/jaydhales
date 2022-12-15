@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaydhales1" target="blank"><img src="https://img.shields.io/twitter/follow/jaydhales1?logo=twitter&style=for-the-badge" alt="jaydhales1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [jaydhales.github.io](jaydhales.github.io)
+- 👨‍💻 All of my projects are available at [james-o.netlify.app](james-o.netlify.app)
 
 - 📫 How to reach me **jaydhales@gmail.com**
 
