@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Osunkiyesi</h1>
-<h2 align="center">Frontend Developer</h2>
 
+<h2 align="center">Frontend Developer</h2>
 <p align="center"><img src="https://profile-counter.glitch.me/jaydhales/count.svg" height="25" /></p>
 
 <br/>
