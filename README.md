@@ -7,7 +7,7 @@
 
 - I work with React and Tailwind CSS.
 
-- I am currently learning Next.Js, Solidity.
+- I am currently learning Next.Js, Typescript, Solidity.
 
 - 👨‍💻 All of my projects are available at [james-o.netlify.app](https://james-o.netlify.app)
 
