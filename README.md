@@ -19,7 +19,7 @@
 
 |    Overall    | High risk | Medium risk |
 | :-----------: | :-------: | :---------: |
-| 4 High/Medium |  3 High   |  1 Medium   |
+| 6 High/Medium |  5 High   |  1 Medium   |
 
 <h3> <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks</h3>
 
@@ -31,7 +31,7 @@
 
 |                            Contest                            | High risk | Medium risk | Ranking | Security report |
 | :-----------------------------------------------------------: | :-------: | :---------: | :-----: | :-------------: |
-| [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena#top) |     -     |      -      |    -    | [coming soon]() |
+| [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena#top) |     2     |      -      |    -    | [coming soon]() |
 
 ## <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=40 height=27> Sherlock
 
