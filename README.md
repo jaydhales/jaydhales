@@ -6,6 +6,7 @@
    <li>Smart Contract Developer & Web3 Security Researcher</li>
    <li>Frontend Developer | Next.Js | React | Typescript </li>
    <li>📫 How to reach me <a href="mailto:jaydhales@gmail.com">jaydhales@gmail.com</a></li>
+   <li><a href="https://drive.google.com/file/d/1TWcvpfQ0ZBRkROrhk9Pyx5d7f89ptX5w/view?usp=sharing">📄 Resume </a></li>
 
 </ul>
 
