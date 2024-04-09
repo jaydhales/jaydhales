@@ -33,6 +33,7 @@
 |                            Contest                            | High risk | Medium risk | Ranking | Security report |
 | :-----------------------------------------------------------: | :-------: | :---------: | :-----: | :-------------: |
 | [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena#top) |     2     |      -      |    -    | [coming soon]() |
+| [Ondo Finance](https://code4rena.com/audits/2024-03-ondo-finance) | -     |      -      |    -    | [coming soon]() |
 
 ## <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=40 height=27> Sherlock
 
