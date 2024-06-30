@@ -16,26 +16,3 @@
 <a href="https://linkedin.com/in/jaydhales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaydhales" height="30" width="40" /></a>
 </p>
 
-<h2>Audit Summary</h2>
-
-|    Overall    | High risk | Medium risk |
-| :-----------: | :-------: | :---------: |
-| 6 High/Medium |  5 High   |  1 Medium   |
-
-<h3> <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks</h3>
-
-|                                   Contest                                    | High risk | Medium risk | Ranking |                                                  Security report                                                  |
-| :--------------------------------------------------------------------------: | :-------: | :---------: | :-----: | :---------------------------------------------------------------------------------------------------------------: |
-| [Santa's List](https://www.codehawks.com/contests/clpba0ama0001ywpabex01hrp) |     3     |      1      |    -    | [Report](https://github.com/jaydhales/jaydhales/blob/main/Codehawks/Jaydhales-First-Flight-%235_-Santa's-List.md) |
-
-## <img src="https://code4rena.com/images/c4-logo-icon.svg" width=40 height=27> Code4rena
-
-|                            Contest                            | High risk | Medium risk | Ranking | Security report |
-| :-----------------------------------------------------------: | :-------: | :---------: | :-----: | :-------------: |
-| [Ai Arena](https://code4rena.com/audits/2024-02-ai-arena#top) |     2     |      -      |    -    | [coming soon]() |
-| [Ondo Finance](https://code4rena.com/audits/2024-03-ondo-finance) | -     |      -      |    -    | [coming soon]() |
-
-## <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width=40 height=27> Sherlock
-
-| Contest | High risk | Medium risk | Ranking | Security report |
-| :-----: | :-------: | :---------: | :-----: | :-------------: |
