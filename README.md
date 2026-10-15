@@ -23,11 +23,21 @@
 
 ## Tech stack
 
-**Languages:** TypeScript · JavaScript · Rust · Go · Solidity · Java · Python · SQL<br/>
-**Backend:** Node.js · Express · tRPC · Axum · Tokio · SQLx · REST APIs · webhooks<br/>
-**Frontend:** React · Next.js · Tailwind CSS · wagmi · viem<br/>
-**Data:** MySQL · MongoDB<br/>
-**Infra & tools:** Git · GitHub Actions · Docker Compose · Linux · Proxmox VE · Foundry<br/>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,rust,go,solidity,java,py" alt="TypeScript, JavaScript, Rust, Go, Solidity, Java, Python" />
+
+**Backend & data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Node.js, Express, MySQL, MongoDB" />
+<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" alt="tRPC" height="48" />
+<img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Axum" height="48" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="React, Next.js, Tailwind CSS, HTML, CSS" />
+
+**Infra & tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux" alt="Git, GitHub, GitHub Actions, Docker, Linux" />
+<img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox VE" height="48" />
+
 **Practice:** SDLC & methodologies · Agile/Scrum · code review · testing
 
 ## Connect
