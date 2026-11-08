@@ -3,12 +3,10 @@
 
 ## About me
 
-- 🎓 Studying for an MSc in Computing with Cloud Technologies in Sheffield, UK. Right now I'm working through the Software Development Life Cycle & Methodologies module.
+- 🎓 Studying for an MSc in Computing with Cloud Technologies in Sheffield, UK.
 - 💻 Full-stack engineer: production **TypeScript, React and Next.js** frontends, and backend services in **Rust (Axum)** and **Node.js (Express, tRPC)**.
 - ⛓️ Built frontends for DeFi protocols with over $500k in TVL and 1,000+ users, and debugged the Solidity contracts behind them.
 - 🧑‍🏫 Taught frontend development to 80+ developers across 5 cohorts at Web3Bridge Africa.
-- 🖥️ Run a self-hosted home lab on Proxmox VE: blockchain nodes, Home Assistant and a NAS.
-- 🔭 Looking for a 12-month software engineering placement starting summer 2027.
 
 ## Featured projects
 
